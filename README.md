@@ -1,4 +1,4 @@
-# facebook-loginDemo
+# facebook-login
 Facebook LogIn/SignUp Page in HTML and CSS.
 This is the demo for the facebook login/SignUp page,using HTML and CSS only.
 
